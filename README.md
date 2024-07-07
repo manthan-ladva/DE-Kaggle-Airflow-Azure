@@ -39,17 +39,12 @@ The goal of this project is to perform ETL Data Pipeline on Kaggle data using va
 
 
 ## Data Architecture
-![Architecture](https://github.com/manthan-ladva/DE-Uber-Analysis-Azure/blob/main/diagrams/architecture.png)
+![Architecture](https://github.com/manthan-ladva/DE-Kaggle-Airflow-Azure/blob/main/diagrams/kaggle_airflow.png)
 
 <hr/>
 
 ## Data Model
 ![Data Model](https://github.com/manthan-ladva/DE-Uber-Analysis-Azure/blob/main/diagrams/uber-de.png)
-
-<hr/>
-
-## PowerBI Dashboard Glimpse
-![Dashboard](https://github.com/manthan-ladva/DE-Uber-Analysis-Azure/blob/main/dashboards/uber_dashboard.jpg)
 
 
 
