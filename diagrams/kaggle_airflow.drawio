@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" modified="2024-07-07T10:10:15.886Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="TkVUHarVOLVbHIvZfIWw" version="24.6.4" type="google">
+  <diagram name="Page-1" id="8zlUMFxMrpSi5mJFEOxJ">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qze9X4BzWvqvL0efGhEi-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="257" y="190" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="qze9X4BzWvqvL0efGhEi-4" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://www.myqnap.org/wp-content/uploads/airflow-logo.png;" vertex="1" parent="1">
+          <mxGeometry x="307" y="192" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qze9X4BzWvqvL0efGhEi-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="310" width="69" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="qze9X4BzWvqvL0efGhEi-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qze9X4BzWvqvL0efGhEi-7" target="qze9X4BzWvqvL0efGhEi-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qze9X4BzWvqvL0efGhEi-7" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://i.imgur.com/gixjL0a.png;" vertex="1" parent="1">
+          <mxGeometry x="100" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qze9X4BzWvqvL0efGhEi-11" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;" vertex="1" parent="1">
+          <mxGeometry x="540" y="264" width="65" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="qze9X4BzWvqvL0efGhEi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.055;entryY=0.515;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qze9X4BzWvqvL0efGhEi-3" target="qze9X4BzWvqvL0efGhEi-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pwUSX2zNDBg0WL_xRXAb-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pwUSX2zNDBg0WL_xRXAb-3" target="qze9X4BzWvqvL0efGhEi-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pwUSX2zNDBg0WL_xRXAb-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="255" width="181.09" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
