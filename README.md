@@ -9,7 +9,7 @@ The goal of this project is to perform Basic ETL Data Pipeline on Kaggle data us
 
 <hr/>
 
-# What I Learned?
+# What Did I Learned?
 * Whole project of Tutorial was based on [AWS](https://github.com/darshilparmar/twitter-airflow-data-engineering-project/tree/main), Here, I implemented whole project on [Azure].
 * Hands On Experinece with [Python], [Azure], [Azure Storage Account], [VM], [Airflow].
 * End-to-End Pipeline with [Airflow].
