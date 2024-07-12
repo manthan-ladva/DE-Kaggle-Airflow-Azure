@@ -23,7 +23,7 @@ The goal of this project is to perform Basic ETL Data Pipeline on Kaggle data us
 ## Tools Used
 [<img align="left" alt="Python" width="33px" src="https://i.imgur.com/gixjL0a.png" />][Python]
 [<img align="left" alt="Jupyter" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />][Kaggle]
-[<img align="left" alt="vscode" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCode]
+[<img align="left" alt="vscode" width="33px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" />][VSCode]
 <br/>
 <br/>
 [<img align="left" alt="a" width="55px" src="https://www.business-central-app.it/wp-content/uploads/2021/12/logo-azure.png"/>][Azure]
